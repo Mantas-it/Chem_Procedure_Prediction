@@ -13,6 +13,7 @@ torch_device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 tokenizer = AutoTokenizer.from_pretrained('laituan245/molt5-large-smiles2caption',model_max_length=256)
 model = T5ForConditionalGeneration.from_pretrained('.../molT5/pre-tok_pre_molT5-large/checkpoint-17000')
 model.config.max_length = 512
+model.to(torch_device)
 
 #The reactants and products are separated by the bar (|)
 input = 'Clc1nc(Cl)c2c(n1)CSC2|C1COCCN1>>Clc1nc2c(c(N3CCOCC3)n1)SCC2'   
