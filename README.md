@@ -1,6 +1,5 @@
 # This is an article repository. It is in the process of being updated while the paper is being reviewed.
-# Title
-Large Language Models for Predicting Organic Synthesis Procedures
+# Title: Large Language Models for Predicting Organic Synthesis Procedures
 Available online: -- 
 
 Required: python 3.11; pytorch 2.2; transformers 4.38.1. GPU with support for CUDA 11.8 and cudnn 8.9.2 is recommended. Large models need 24GB Vram GPU's to train. We used vast.ai and RTX4090.
