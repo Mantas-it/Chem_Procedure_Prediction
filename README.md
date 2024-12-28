@@ -31,6 +31,8 @@ The prepared "PRP-931k" dataset can be downloaded [click here](https://vduedu-my
 
 ## Best models 
 
+Test via HuggingFace [click here](https://huggingface.co/MantasV/Procedure_molt5-large)
+
 Download "molT5-large-PP" model (best) [click here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/EdxiYDTRyZROoQ70FbsajwkBOqIHiSAhrGM2Uqanhfd40g?e=OTGkSq) (8GB compressed) 
 
 Download "molT5-base-PP" model (faster) [click here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/EVV5glzozlJDn43OuKmCkDgBPGesVw6f6eVm41iBXZPqRg?e=fKL31e) (2.5GB compressed)
