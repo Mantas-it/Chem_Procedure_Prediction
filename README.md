@@ -57,7 +57,7 @@ Download all seq2seq transformer models [click here](https://vduedu-my.sharepoin
 
 ## Other files
 
-Download the DRFP pkl files for tmap [click here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/EUX4P8mWIpVMqhibomR0bR8ByE3xKMmAKrmfNTdEfMoEPg?e=DEcCoK)
+Download the DRFP pkl files for tmap [click here](https://vduedu-my.sharepoint.com/:f:/g/personal/mantas_vaskevicius_vdu_lt/En0KXaWUo8NCn4wbfhvge14BIKLxB8ak5APqyE4LjaLlhw?e=0Yud9A)
 
 ### ----------------------------------------
 
